@@ -1,0 +1,12 @@
+.vscode
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.env
+*.ipynb_checkpoints
+*.cache.sqlite
+.DS_Store
+test_no_read.py
